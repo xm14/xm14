@@ -12,4 +12,4 @@
 
 ### Моя визитка в стиле терминала:
 
-[Посмотреть визитку](https://xm14.github.io/terminal-visitka/) 
+[Посмотреть визитку](https://xm14.github.io/terminal-card/) 
