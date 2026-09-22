@@ -40,4 +40,4 @@ I write code that other engineers can read. I prefer explicit over implicit, sim
 ## Contact
 
 Open to collaboration on Rails projects and AI integration experiments.
-Email: [укажите ваш email]
+Email: martinrlab@gmail.com
